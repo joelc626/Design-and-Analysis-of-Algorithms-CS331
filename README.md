@@ -1,1 +1,1 @@
-# Design-and-Analysis-of-Algorithms-CS331
+# Design and Analysis of Algorithms (CS331)
